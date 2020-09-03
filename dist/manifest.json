@@ -37,5 +37,6 @@
   "display": "standalone",
   "start_url": ".",
   "description": "An app that allows you to view upcoming food events.",
-  "background_color": "#01579b"
+  "background_color": "#01579b",
+  "theme_color": "#ffffff"
 }
